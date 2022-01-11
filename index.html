@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="code.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+    <title>Kalkulator Metode Seidel</title>
+</head>
+<body>
+    <div class="main fade" id="cover">
+      <div class="flex-wrapper">
+        <div class="image-wrapper">
+          <a><img src="ti19.png" align="left" class="scale-image"></a>
+        </div>
+        <div class="image-wrapper">
+          <a><img src="stmikk.png" align="right" class="scale-image"></a>
+         </div>
+      </div>
+      <div class="title">Kalkulator Metode Gauss-Seidel</div>
+      <p id="instructions">
+          Dibuat oleh Mahasiswa Teknik Informatika<br/>
+          Tahun Angkatan 2019 <br/>
+          STMIK Komputama Majenang
+      </p>
+      <button id="button" onclick="Start()">Mulai</button>
+      <div class="title">Created by : </div>
+      <p id="instructions">
+          Imam Fahrudin - 195520022<br />
+          Rafiq Chasnan Habibi - 195520014<br />
+         <br />
+      </p>
+      <div class="title">Ditujukan sebagai tugas UAS</div>
+      <p id="instructions">Dosen Fadillah Istiqomah, M. Pd.</p>
+
+
+    </div>
+    <div class="main fade" id="calculator">
+      <label id="title">Kalkulator Metode Seidel</label>
+      <div>
+        <textarea id="box" placeholder="Masukkan konstanta"></textarea>
+        <textarea id="solution"></textarea>
+      </div>
+      <div>
+        <label id="title">Iterasi:</label>
+        <input type="number" id="counter" min="1" max="1000" step="1" value="1">
+        <label id="title">X<sub>0</sub></label>
+        <input type="number" id="seed" min="0" max="1000" step="1" value="0">
+      </div>
+      <div id="buttons">
+          <button id="button1" onclick="calculate()">Hitung</button>
+          <button id="button2" onclick="reset()">Reset</button>
+      </div>
+      <div id="answer"></div>
+    </div>
+    <div class="main fade" id="instruct">
+      <div class="instructions">Cara Perhitungan :</div> 
+       <p id="instructions">Masukan koefisien dan pisahkan dengan spasi, <br/> 
+       Masukkan konstanta pada <i>vertical box.</i> <br/>
+       X<sub>0</sub> : Nilai awal dari iterasi pertama <br/></p>
+       <button id="button" onclick="resetAll()">Kembali</button>
+      </div>
+      <div></div>
+    </div>
+</body>
+</html>
