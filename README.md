@@ -6,9 +6,9 @@ Alhamdulillah bisa merampungkan tugas sebisanya dari ibu dosen yang baik 😊 be
 
 Buat patner kelompok Mas Imam Fahrudin 👨 juga terima kasih atas kerja samanya 😝
 
-**Terkhusus** terima kasih banyak buat Mas Mostafa Hesham Allam 👨‍🎓, Mas Abdulrahman Emad Ismail 👨‍🎓, Mas Karim Amr Hamdy 👨‍🎓 serta Bapak Dr. Eng. Mostafa Reda A. El Tantawi 👨‍🏫 yang ikut berperan besar dalam pembuatan tugas kami
+**Terkhusus** terima kasih banyak buat Mas Mostafa Hesham Allam 👨‍🎓, Mas Abdulrahman Emad Ismail 👨‍🎓, Mas Karim Amr Hamdy 👨‍🎓 serta Bapak Dr. Eng. Mostafa Reda A. El Tantawi 👨‍🏫 yang ikut berperan besar dalam pembuatan tugas kami (Lihat https://github.com/MainUseless/Gauss-Seidel-Method-Calculator)
 
-### Tautan Kalkulator 🤩
+### Tautan Kalkulator Gaus Seidel 🤩
 https://rafiqchasnanhabibi.github.io/rafiqchasnanhabibi.github.io-Metnum/ 
 
 
